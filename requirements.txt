@@ -1,3 +1,4 @@
+pip==24.3.1
 matplotlib==3.2.2
 networkx==2.5
 streamlit==0.73.1
